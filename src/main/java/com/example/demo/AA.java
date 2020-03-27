@@ -7,7 +7,7 @@ public class AA {
     public int aa=2233;
     public static class BB{
         public void start() {
-            System.out.println(1);
+            System.out.println(122);
         }
     }
     public static void main(String[] args) {
