@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class AA {
-    public int aa=2;
+    public int aa=22;
     public static class BB{
         public void start() {
             System.out.println(1);
