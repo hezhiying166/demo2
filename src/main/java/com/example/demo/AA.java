@@ -4,10 +4,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class AA {
-    public int aa=11;
+    public int aa=44;
     public static class BB{
         public void start() {
-            System.out.println(122);
+            System.out.println(44);
         }
     }
     public static void main(String[] args) {
